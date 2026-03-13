@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appCalculator_FILE /home/freecomp/Calculator/build/Desktop_Qt_6_10_2-Debug/appCalculator)
+set(__QT_DEPLOY_TARGET_appCalculator_TYPE EXECUTABLE)

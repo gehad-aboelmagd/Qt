@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Calculator/">
+    <file alias="Main.qml">/home/freecomp/Calculator/Main.qml</file>
+    <file alias="ChatGptCalc.qml">/home/freecomp/Calculator/ChatGptCalc.qml</file>
+  </qresource>
+</RCC>
+

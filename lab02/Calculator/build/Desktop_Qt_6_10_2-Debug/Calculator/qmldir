@@ -1,0 +1,7 @@
+module Calculator
+typeinfo appCalculator.qmltypes
+prefer :/qt/qml/Calculator/
+Main 254.0 Main.qml
+ChatGptCalc 254.0 ChatGptCalc.qml
+depends QtQuick
+
