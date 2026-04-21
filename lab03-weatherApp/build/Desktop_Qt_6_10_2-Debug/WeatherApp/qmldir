@@ -1,0 +1,7 @@
+module WeatherApp
+typeinfo appWeatherApp.qmltypes
+prefer :/qt/qml/WeatherApp/
+ChaGptVersion 254.0 ChaGptVersion.qml
+Main 254.0 Main.qml
+depends QtQuick
+
