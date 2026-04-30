@@ -29,9 +29,8 @@ $ cmake ..
 $ make -j1
 ```
 
-https://github.com/user-attachments/assets/8c53d78b-173b-426d-944a-4be517aec75c
-
 5. Running the app: Access a bash through the GUI
 ```
 $ ./appRPI_LED_Control
 ```
+https://github.com/user-attachments/assets/8c53d78b-173b-426d-944a-4be517aec75c
