@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>media-player.jpeg</file>
+        <file>images/play-music.png</file>
+        <file>images/mute.png</file>
+        <file>images/play.png</file>
+        <file>images/speaker-volume.png</file>
+        <file>images/skip-next-circle.svg</file>
+        <file>images/skip-previous-circle.svg</file>
+        <file>images/headphone.png</file>
+        <file>images/radio.png</file>
+        <file>images/open-folder.png</file>
+    </qresource>
+</RCC>
